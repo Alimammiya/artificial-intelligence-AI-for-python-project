@@ -3,7 +3,7 @@
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB, and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
-[C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
+Top 25 <a href="https://usemynotes.com/c-programming-interview-questions/">C Programming Interview Questions</a>
 
 We are going to learn JavaScript, by answering the most frequently asked javascript interview questions.
 
@@ -11,7 +11,7 @@ We are going to learn JavaScript, by answering the most frequently asked javascr
 
 ## JavaScript Interview Questions and Answers Series
 
-- [`Part 1`](https://ankitkumar.dev/100-JS-interview-question-part)
+- `Part 1`
 - `Part 2` - comming soon
 
 ---
@@ -44,10 +44,6 @@ Explain the various JavaScript `data types`?](#2-what-are-the-primitive-types-in
 21. [How will you empty an array in JavaScript?](#21-how-will-you-empty-an-array-in-javascript)
 
 ---
-
-_If you feel lazy to read more text, you can watch a video covering all questions here_
-
-YouTube: {% youtube kkKpgNNsB_8 %}
 
 ---
 
@@ -587,4 +583,19 @@ Originally posted on [AnkitKumar.Dev](https://ankitkumar.dev/100-JS-interview-qu
 
 ## Further Reading
 
-- [C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
+- [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
+- [How to implement deep linking in React Native app with React Navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation/)
+
+---
+
+Also, to be notified about my new articles and stories:
+
+Subscribe to my [YouTube Channel](https://www.youtube.com/TechTalksWithAK)
+
+Follow me on [Medium](https://ankitdeveloper.medium.com/), [Github](https://github.com/AnkitDroidGit), and [Twitter](https://twitter.com/KumarrAnkitt).
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/) as well.
+
+I am quite active on [Dev Community](https://dev.to/ankitkumar) as well and write small topics over there.
+
+Cheers!!! Happy coding!!
