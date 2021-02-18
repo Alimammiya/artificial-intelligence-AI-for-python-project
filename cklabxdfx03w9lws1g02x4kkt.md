@@ -1,9 +1,8 @@
 ## 100 most asked JavaScript Interview Questions and Answers - Part 1
 
-
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB, and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
-Top 25 <a href="https://usemynotes.com/c-programming-interview-questions/">C Programming Interview Questions</a>
+[C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
 
 We are going to learn JavaScript, by answering the most frequently asked javascript interview questions.
 
@@ -15,9 +14,6 @@ We are going to learn JavaScript, by answering the most frequently asked javascr
 - `Part 2` - comming soon
 
 ---
-Welcome to the **Tech Talks** tutorial.
-
-
 ## Questions
 1. [What is `JavaScript`?](#1-what-is-javascript)
 2. [What are the `primitive types` in JavaScript?
@@ -42,8 +38,6 @@ Explain the various JavaScript `data types`?](#2-what-are-the-primitive-types-in
 19. [What is Closure?](#19-what-is-closure)
 20. [How many ways can you create an array in JavaScript?](#20-how-many-ways-can-you-create-an-array-in-javascript)
 21. [How will you empty an array in JavaScript?](#21-how-will-you-empty-an-array-in-javascript)
-
----
 
 ---
 
@@ -583,19 +577,4 @@ Originally posted on [AnkitKumar.Dev](https://ankitkumar.dev/100-JS-interview-qu
 
 ## Further Reading
 
-- [Top Flutter Advantages and Why You Should Try Flutter on Your Next Project](https://ankitkumar.dev/why-flutter/)
-- [How to implement deep linking in React Native app with React Navigation v5](https://ankitkumar.dev/react-native-deeplink-with-react-navigation/)
-
----
-
-Also, to be notified about my new articles and stories:
-
-Subscribe to my [YouTube Channel](https://www.youtube.com/TechTalksWithAK)
-
-Follow me on [Medium](https://ankitdeveloper.medium.com/), [Github](https://github.com/AnkitDroidGit), and [Twitter](https://twitter.com/KumarrAnkitt).
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/) as well.
-
-I am quite active on [Dev Community](https://dev.to/ankitkumar) as well and write small topics over there.
-
-Cheers!!! Happy coding!!
+- [C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
