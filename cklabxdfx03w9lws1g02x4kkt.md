@@ -3,6 +3,8 @@
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB, and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
+Top 25 <a href="https://usemynotes.com/c-programming-interview-questions/">C Programming Interview Questions</a>
+
 We are going to learn JavaScript, by answering the most frequently asked javascript interview questions.
 
 ---
