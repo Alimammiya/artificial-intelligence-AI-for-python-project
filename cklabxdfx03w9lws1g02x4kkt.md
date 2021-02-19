@@ -10,8 +10,9 @@ We are going to learn JavaScript, by answering the most frequently asked javascr
 
 ## JavaScript Interview Questions and Answers Series
 
-- `Part 1`
-- `Part 2` - comming soon
+<a href="https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1">100 most asked JavaScript Interview Questions and Answers - Part 1</a>
+
+<a href="https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-2" >100 most asked JavaScript Interview Questions and Answers - Part 2</a>
 
 ---
 ## Questions
