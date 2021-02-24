@@ -49,3 +49,8 @@ VPN technology creates a tunnel between host and server, through this tunnel, da
 ![vpn.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1614143563885/3YHP9otwR.png)
 
 This is basically used to hide your IP address or change your IP address if you say and with the help of this you can access those websites as well, so your country is banned.
+
+----
+## Post credit 
+- [What is VPN](https://usemynotes.com/what-is-vpn-and-how-does-it-work/) by   [Use My Notes](https://usemynotes.com/) 
+
