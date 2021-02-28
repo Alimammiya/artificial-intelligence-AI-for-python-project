@@ -510,5 +510,7 @@ Originally posted on [AnkitKumar.Dev](https://ankitkumar.dev/100-JS-interview-qu
 
 - [C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
 
----
+---- 
+Personally, I love Coffee. 
+<a href="https://www.buymeacoffee.com/alimammiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 Cheers!!! Happy coding!!
