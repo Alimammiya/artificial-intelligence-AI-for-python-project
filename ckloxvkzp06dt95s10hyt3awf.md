@@ -21,3 +21,7 @@ But if you are a user who just needs to use/execute Java applications that are a
 The installation of JRE is similar to installing JDK. In this tutorial, we will be covering the Windows operating system.
 
 If you are interested to learn  [how to install java](https://usemynotes.com/how-to-install-java/) JRE so kindly visit it. 
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="alimammiya" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="alimammiya" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
