@@ -22,9 +22,5 @@ The installation of JRE is similar to installing JDK. In this tutorial, we will 
 
 If you are interested to learn  [how to install java](https://usemynotes.com/how-to-install-java/) JRE so kindly visit it. 
 
-<div class="gradient-border-wrapper">
-    <div class="gradient-border">
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'T6T53SIZZ');kofiwidget2.draw();</script> 
-        <div class="btn-container"><a title="Support me on ko-fi.com" class="kofi-button" style="background-color:#323b43;" href="https://ko-fi.com/alimammiya" target="_blank"> <span class="kofitext"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg">Support Me on Ko-fi</span></a></div> 
-    </div>
-</div>
+
+
