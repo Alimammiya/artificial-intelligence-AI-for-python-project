@@ -22,5 +22,7 @@ The installation of JRE is similar to installing JDK. In this tutorial, we will 
 
 If you are interested to learn  [how to install java](https://usemynotes.com/how-to-install-java/) JRE so kindly visit it. 
 
-
+---- 
+P.S. I love Coffee. 
+<a href="https://www.buymeacoffee.com/alimammiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
