@@ -396,7 +396,7 @@ One reason for this is that the speed of synchronization depends on the system o
 
 These were the seven features that were introduced in ES2017 (ES8). I hope that you've enjoyed this tutorial. I also hope that this tutorial helped you learned at least a bit about how these ES2017 features work and how to use them.
 
-Originally posted on - [Alexdevero](https://dev.to/alexdevero/7-javascript-es2017-features-to-learn-16dk)
+Originally posted on - [Alexdevero](https://blog.alexdevero.com/javascript-es2017-features/)
 
 [multidimensional arrays]: https://teamtreehouse.com/library/what-is-a-multidimensional-array
 [descriptors]: https://blog.alexdevero.com/javascript-object-property-flags/
