@@ -396,15 +396,4 @@ One reason for this is that the speed of synchronization depends on the system o
 
 These were the seven features that were introduced in ES2017 (ES8). I hope that you've enjoyed this tutorial. I also hope that this tutorial helped you learned at least a bit about how these ES2017 features work and how to use them.
 
-[multidimensional arrays]: https://teamtreehouse.com/library/what-is-a-multidimensional-array
-[descriptors]: https://blog.alexdevero.com/javascript-object-property-flags/
-[Object.assign()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
-[Object.getPrototypeOf()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf
-[shallow copy]: https://blog.alexdevero.com/shallow-deep-copy-in-javascript/
-[promises]: https://blog.alexdevero.com/javascript-promises/
-[async functions]: https://blog.alexdevero.com/javascript-async-await/
-[asynchronous JavaScript]: https://blog.alexdevero.com/asynchronous-javascript-code/
-[await]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
-[SharedArrayBuffer]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
-[atomic operations]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics#atomic_operations
-[this tutorial]: https://github.com/tc39/ecmascript_sharedmem/blob/master/TUTORIAL.md
+Originally posted on - [Alexdevero](https://dev.to/alexdevero/7-javascript-es2017-features-to-learn-16dk)
