@@ -410,3 +410,7 @@ Originally posted on - [Alexdevero](https://blog.alexdevero.com/javascript-es201
 [SharedArrayBuffer]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
 [atomic operations]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics#atomic_operations
 [this tutorial]: https://github.com/tc39/ecmascript_sharedmem/blob/master/TUTORIAL.md
+
+---- 
+Personally, I love Coffee. 
+<a href="https://www.buymeacoffee.com/alimammiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
