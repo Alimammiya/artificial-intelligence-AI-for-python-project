@@ -10,7 +10,7 @@ In C language we can declare and initialize with strings two types.
 ### First:-
 In this, we create an array of finite numbers and store one-one character of a string in its all index. It stores the null character () in its last index. It is necessary to do this.
 ```
-char myArray[4] = {‘A’, ‘ L’, ‘I’, ‘M’, ‘A’, ‘M’};
+char myArray[6] = {‘A’, ‘ L’, ‘I’, ‘M’, ‘A’, ‘M’};
 ```
 
 ### Second:-
@@ -22,10 +22,10 @@ char myArray[] = “ALIMAM”;
 ### Example:-
 ```
 #include<stdio.h>
-int main()
+int main(void)
 {
   /* Declaring string in array format */
-  char myArrayF[5] = {‘A’, ‘ L’, ‘I’, ‘M’, ‘A’, ‘M’};
+  char myArrayF[7] = {‘A’, ‘ L’, ‘I’, ‘M’, ‘A’, ‘M’. '\0'};
 
   /* Declaring string in simple format */
   char myArrayS[] = “ALIMAM”;
