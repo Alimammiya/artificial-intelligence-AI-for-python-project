@@ -381,6 +381,12 @@ The ES2021 (ES12) can seem small in comparison to previous specifications of Jav
 [proposal]: https://github.com/tc39/proposal-weakrefs#a-note-of-caution
 
 Originally posted on - [alexdevero](https://blog.alexdevero.com/javascript-es2021-features/)
+
 ---
+
+## Further Reading
+- [Java programming Course for Free](https://usemynotes.com/java-programming/)
+- [Python for Beginners Course](https://usemynotes.com/python/)
+
 Personally, I love Coffee. 
 <a href="https://www.buymeacoffee.com/alimammiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
