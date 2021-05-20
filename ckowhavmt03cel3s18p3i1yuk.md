@@ -179,3 +179,4 @@ So don't use the inline-* values and your code will be saved clear.
   display: flex;
 }
 ```
+Originaly posted on - [melnik909](https://dev.to/melnik909/5-css-bad-coding-habits-1he3)
