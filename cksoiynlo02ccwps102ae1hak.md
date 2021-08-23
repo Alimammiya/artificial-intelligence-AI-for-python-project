@@ -536,6 +536,8 @@ const jess = new Human('Jessica', 28)
 
 When it comes to arrow and regular functions, the differences go beyond the syntax. I hope that the four main differences we discussed helped you understand how arrow and regular functions differ from each other and when is it better to use one and when the other.
 
+Originally posted on - [alexdevero](https://dev.to/alexdevero/4-important-differences-between-regular-and-arrow-functions-59f9)
+
 [regular functions]: https://blog.alexdevero.com/javascript-functions-pt1/
 [arrow functions]: https://blog.alexdevero.com/javascript-arrow-functions/
 [function declaration]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
@@ -544,4 +546,3 @@ When it comes to arrow and regular functions, the differences go beyond the synt
 [apply()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
 [call()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
 
-Originally posted on - [alexdevero](https://dev.to/alexdevero/4-important-differences-between-regular-and-arrow-functions-59f9)
