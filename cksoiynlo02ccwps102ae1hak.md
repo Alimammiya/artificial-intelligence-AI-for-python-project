@@ -543,3 +543,5 @@ When it comes to arrow and regular functions, the differences go beyond the synt
 [function constructor]: https://blog.alexdevero.com/javascript-constructor-functions/
 [apply()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
 [call()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+
+Originally posted on - [alexdevero](https://dev.to/alexdevero/4-important-differences-between-regular-and-arrow-functions-59f9)
