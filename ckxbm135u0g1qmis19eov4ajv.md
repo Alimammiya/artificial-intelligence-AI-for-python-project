@@ -46,7 +46,7 @@ Maybe you have some good experience in operating systems and networks, but want 
 
 Perhaps you are stuck in a low-paying networking job and want to move to a better, more senior position to learn cryptography and network security, this might help you.
 
-## Why learn Java?
+## Why learn Cryptography?
 
 Cryptography is often considered the mother of Operating systems (OS) ​​because many other networks ​​have been based on it.
 
