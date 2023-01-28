@@ -92,19 +92,19 @@ The community of Hashnode is built on the principles of sharing knowledge and le
 
 Hashnode is considered as a great platform for developers who are looking to start blogging or for those who are looking to expand their reach and audience. It's also a valuable resource for developers who want to learn new skills and stay up-to-date with the latest trends and technologies in the industry.
 
-## Dev.to
+## Dev. to
 
-Dev.to (short for Developers.to) is an online community platform for software developers and technologists. It was launched in 2016 and since then it has grown to become one of the most popular and active communities for developers.
+Dev. to (short for Developers. to) is an online community platform for software developers and technologists. It was launched in 2016 and since then it has grown to become one of the most popular and active communities for developers.
 
 ![Dev.to](https://cdn.hashnode.com/res/hashnode/image/upload/v1674884128374/99a91a54-8f46-40d0-9adb-74344107274f.png align="center")
 
-Dev.to provides a platform for developers to share their knowledge, experiences and skills through articles, tutorials, and discussions. The platform covers a wide range of topics related to software development and technology, including web development, mobile development, data science, and more.
+Dev. to provides a platform for developers to share their knowledge, experiences and skills through articles, tutorials, and discussions. The platform covers a wide range of topics related to software development and technology, including web development, mobile development, data science, and more.
 
-The community of Dev.to is built on the principles of sharing knowledge and learning from others. It's a great place for developers to share their experiences, showcase their work, and build a reputation in the community. The platform also has a feature called "communities" which allows developers to create and join groups based on the topics they are interested in, this helps users to discover new writers and articles based on their interests and expertise.
+The community of Dev. to is built on the principles of sharing knowledge and learning from others. It's a great place for developers to share their experiences, showcase their work, and build a reputation in the community. The platform also has a feature called "communities" which allows developers to create and join groups based on the topics they are interested in, this helps users to discover new writers and articles based on their interests and expertise.
 
-Dev.to also provides a variety of tools and features that can be useful for developers, such as the ability to schedule posts in advance, the ability to track and analyze the performance of their articles and posts, and a built-in commenting system that allows users to engage with their readers and receive feedback on their posts.
+Dev. to also provides a variety of tools and features that can be useful for developers, such as the ability to schedule posts in advance, the ability to track and analyze the performance of their articles and posts, and a built-in commenting system that allows users to engage with their readers and receive feedback on their posts.
 
-Dev.to is considered as a valuable resource for developers who are looking to start blogging or for those who are looking to expand their reach and audience. It's also a great place for developers to learn new skills and stay up-to-date with the latest trends and technologies in the industry. Additionally, Dev.to has a recognition program that awards developers with points and badges for their contributions to the community, encouraging them to continue to share their knowledge and experiences with others.
+Dev. to is considered as a valuable resource for developers who are looking to start blogging or for those who are looking to expand their reach and audience. It's also a great place for developers to learn new skills and stay up-to-date with the latest trends and technologies in the industry. Additionally, Dev. to has a recognition program that awards developers with points and badges for their contributions to the community, encouraging them to continue to share their knowledge and experiences with others.
 
 ## Reddit
 
